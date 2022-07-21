@@ -1,5 +1,5 @@
 <h2 align="center">Welcome to my GitHub page!</h2>
-<p align="center">I'm a hobbyist programmer working on indivual projects of interest, as well as some group collaborations, mainly for video games. I'm a community college graduate with a degree in IT Networking. Feel free to check out some of my pinned projects!</p>
+<p align="center">I'm a hobbyist programmer working on indivual projects of interest, as well as some group collaborations, mainly for video games. I'm a community college graduate with a degree in IT Networking. Feel free to check out some of my repos!</p>
 <li>
 <b>Aliases:</b> Ellie, pocky, electricangel
 <li>
