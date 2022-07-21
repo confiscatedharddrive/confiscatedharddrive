@@ -20,3 +20,4 @@
 <p>Follow me on Mastodon:
 <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/108249932388618135?domain=https%3A%2F%2Fmastodon.lol&style=flat-square">
 </p>
+<a rel="me" href="https://mastodon.lol/@electricpocky"></a>
