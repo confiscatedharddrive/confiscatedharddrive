@@ -18,5 +18,5 @@
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=confiscatedharddrive&count_private=true&show_icons=true"/></p>
 <p>Follow me on Mastodon:
-<img alt="Mastodon Follow" a rel="me" src="https://img.shields.io/mastodon/follow/108249932388618135?domain=https%3A%2F%2Fmastodon.lol&style=flat-square">
+<img alt="Mastodon Follow" a rel="me" href="https://mastodon.lol/@electricpocky" src="https://img.shields.io/mastodon/follow/108249932388618135?domain=https%3A%2F%2Fmastodon.lol&style=flat-square">
 </p>
