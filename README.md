@@ -17,6 +17,6 @@
 <p align="center"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white">
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=confiscatedharddrive&count_private=true&show_icons=true"/></p>
-<p><a href="https://mastodon.lol/@electricpocky" rel="me">Follow me on Mastodon</a>
+<p><a rel="me" href="https://mastodon.lol/@electricpocky">Follow me on Mastodon</a>
 <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/108249932388618135?domain=https%3A%2F%2Fmastodon.lol&style=flat-square">
 </p>
