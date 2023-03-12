@@ -7,7 +7,7 @@
 <li>
 <b>Currently working on:</b> Sonic Runners Revival; Doki Doki Literature Club modding
 <li>
-<b>Current OS:</b> Fedora 37 with KDE
+<b>Current OS:</b> Debian 12 with KDE
 <li>
 <b>Server OS:</b> Debian 11 CLI
 </li>
