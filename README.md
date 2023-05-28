@@ -3,8 +3,6 @@
 <li>
 <b>Aliases:</b> Ellie, pocky, electricangel
 <li>
-<b>Pronouns:</b> she/her
-<li>
 <b>Currently working on:</b> Sonic Runners Revival; Doki Doki Literature Club modding
 <li>
 <b>Current OS:</b> Debian 12 with KDE
