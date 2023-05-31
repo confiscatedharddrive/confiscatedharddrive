@@ -1,11 +1,11 @@
 <h2 align="center">Welcome to my GitHub page!</h2>
-<p align="center">I'm a hobbyist programmer working on indivual projects of interest, as well as some group collaborations, mainly for video games. I'm a community college graduate with a degree in IT Networking. Feel free to check out some of my repos!</p>
+<p align="center">I'm a hobbyist programmer working on indivual projects of interest, as well as some group collaborations, mainly for video games. Community college graduate with Associate's degree in IT Networking.</p>
 <li>
 <b>Aliases:</b> Ellie, pocky, electricangel
 <li>
 <b>Pronouns:</b> she/her
 <li>
-<b>Currently working on:</b> Sonic Runners Revival; Doki Doki Literature Club modding
+<b>Currently working on:</b> Sonic Runners Revival
 <li>
 <b>Current OS:</b> Debian 12 with KDE
 <li>
