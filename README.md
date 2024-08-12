@@ -6,7 +6,7 @@
 <li>
 <b>Pronouns:</b> she/her
 <li>
-<b>Currently working on:</b> Sonic Runners Revival
+<b>Currently working on:</b> RetroAchievements, Sonic Runners Revival
 <li>
 <b>Current OS:</b> Debian 12 with KDE
 <li>
