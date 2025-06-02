@@ -8,10 +8,7 @@
 <li>
 <b>Currently working on:</b> RetroAchievements, Sonic Runners Revival
 <li>
-<b>Current OS:</b> Debian 12 with KDE
-<li>
-<b>Server OS:</b> Debian 11 CLI
-</li>
+<b>Current OS:</b> Debian 13 with KDE
 <h3 align="center">Currently Learning</h3>
 <p align="center"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></p>
 <h3 align="center">Active User Of</h3>
