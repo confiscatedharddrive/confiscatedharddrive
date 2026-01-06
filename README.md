@@ -2,8 +2,6 @@
 <p align="center">I'm a hobbyist programmer working on indivual projects of interest, as well as some group collaborations. 
 <p align="center">Community college graduate with Associate's degree in IT Networking.</p>
 <li>
-<b>Pronouns:</b> she/her
-<li>
 <b>Currently working on:</b> RetroAchievements, Sonic Runners Revival
 <li>
 <b>Current OS:</b> Debian 13 with KDE
